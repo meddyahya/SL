@@ -1,4 +1,4 @@
-Synthetic Lethality – Data Analysis
+# Synthetic Lethality – Data Analysis
 
 ## Overview
 This project contains an extensive exploratory data analysis (EDA) in a Jupyter Notebook.  
